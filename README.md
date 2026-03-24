@@ -1,6 +1,5 @@
 - 👋 Hi, I’m xuyuqi
-- 👀 I’m interested in emm...
-- 🌱 I’m currently learning mq\nginx\k8s
+- 🌱 I’m currently focus on render-engine engineering.
 - 📫 How to reach me 601026825@qq.com
 
 <!---
